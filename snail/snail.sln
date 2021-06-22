@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snail", "snail.csproj", "{1C35F8F3-F6B1-4D18-B296-4087F154166D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C35F8F3-F6B1-4D18-B296-4087F154166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C35F8F3-F6B1-4D18-B296-4087F154166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C35F8F3-F6B1-4D18-B296-4087F154166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C35F8F3-F6B1-4D18-B296-4087F154166D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B117C93-61F8-4001-9DC9-B360E4E91EE6}
+	EndGlobalSection
+EndGlobal
