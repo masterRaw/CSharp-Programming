@@ -31,6 +31,7 @@ namespace sortcheck
         {
 
             Array.Sort(arr);
+            
 
             if (size - 1 < 1)
                 Console.WriteLine("Size is less than 1. ");
